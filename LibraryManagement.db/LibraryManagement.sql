@@ -1,0 +1,3 @@
+CREATE DATABASE LibraryManagement
+USE LibraryManagement
+GO
